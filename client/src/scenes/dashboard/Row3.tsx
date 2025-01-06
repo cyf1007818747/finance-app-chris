@@ -1,5 +1,5 @@
 import BoxHeader from "@/components/BoxHeader";
-import DashboardBox from "@/components/DashboardBox";
+import DashboardBox from "@/components/DashBoardBox";
 import FlexBetween from "@/components/FlexBetween";
 import {
   useGetKpisQuery,
